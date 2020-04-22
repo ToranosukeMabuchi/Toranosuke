@@ -1,5 +1,46 @@
-p {color: brown;}
+p.sub-title1 {color: rgb(147, 165, 42);}
+p.sub-title2{color: chocolate;}
+.company{
+    color: crimson;
+    font-size: large;
+}
 
+div.test1{background-color: rgb(20, 220, 20);
+width: 100px;
+height: 100px;
+text-align: center;
+border-radius: 50% 50% 0% 50%;
+position: absolute;
+left: 10px;
+top: 500px;
+}
+h1 {color: rgb(42, 165, 128);
+    font-size: 30pt;}
 
-h1 {color: brown;
-    font-size: 50pt;}
+div.test2{background-color: rgb(40, 20, 220);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 50% 50% 50% 0%;
+position: absolute;
+left: 120px;
+top:500px}
+div.test3{background-color: darkgreen;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 0% 50% 50% 50%;
+    position: absolute;
+    top:610px;
+    left: 120px;
+    
+    
+}
+div.test4{background-color: rgb(40, 20, 220);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 50% 0% 50% 50%;
+position: absolute;
+top:610px;
+left:10px}
